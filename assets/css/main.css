@@ -3666,8 +3666,12 @@
 		#header button,
 		#header .button {
 			background-color: transparent;
-			color: #ffffff !important;
-			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
+/*			color: #ffffff !important;
+			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);*/
+
+			/*custom*/
+			color: #000 !important;
+			box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.25);
 		}
 
 			#header input[type="submit"]:hover,
@@ -3834,7 +3838,7 @@
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #000;
 		}
 
 		#header blockquote {
@@ -3859,6 +3863,8 @@
 		#header p {
 			font-size: 1.5em;
 			line-height: 1.35em;
+			/*custom*/
+			color: #000;
 		}
 
 			#header p br {
