@@ -4192,6 +4192,10 @@
 		margin: 0px 10px;
 	}
 
+	.project-card .image img {
+		object-fit: none;
+	}
+
 	.project-link {
 		margin-top: 1em;
 	}
