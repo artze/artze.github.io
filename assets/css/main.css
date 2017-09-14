@@ -1909,7 +1909,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		border-radius: 6px;
+		/*border-radius: 6px;*/
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
