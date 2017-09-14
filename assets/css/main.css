@@ -1705,6 +1705,7 @@
 
 		p.project-text {
 			font-size: 16px;
+			font-weight: 500;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -4189,5 +4190,16 @@
 		align-items: center;
 		padding: 30px 15px;
 		margin: 0px 10px;
-		border: 1px solid #ccc;
+	}
+
+	.project-link {
+		margin-top: 1em;
+	}
+
+	.project-link:hover h5 {
+		color: #1e4cff !important;
+	}
+
+	.project-link h5 {
+		margin: 0;
 	}
