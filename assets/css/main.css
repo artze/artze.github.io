@@ -3658,7 +3658,7 @@
 		/*url("images/pattern-size1.svg");*/
 		background-position: top left, center center;
 		background-attachment: fixed, fixed;
-		background-size: auto, cover;
+		background-size: auto cover;
 		height: 100vh;
 		min-height: 35em;
 	}
