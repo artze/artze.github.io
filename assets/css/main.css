@@ -1981,7 +1981,7 @@
 			opacity: 0.25;
 		}
 
-	@media screen and (max-width: 480px) and (orientation: portrait) {
+/*	@media screen and (max-width: 480px) and (orientation: portrait) {
 
 		input[type="submit"],
 		input[type="reset"],
@@ -1991,7 +1991,7 @@
 			padding: 0;
 		}
 
-	}
+	}*/
 
 	input[type="submit"],
 	input[type="reset"],
