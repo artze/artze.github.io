@@ -3922,6 +3922,8 @@
 
 			#header {
 				background-image: url("../../images/background.jpg");
+				/*custom*/
+				height: 100vh;
 			}
 
 		}
@@ -3929,7 +3931,9 @@
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: auto;
+				/*height: auto;*/
+				/*custom*/
+				height: 100vh;
 				min-height: 0;
 			}
 
@@ -3951,6 +3955,7 @@
 
 				#header .content {
 					display: block;
+					/*custom*/
 					width: 100%;
 					text-align: center;
 					margin: 0 0 2em 0;
@@ -3966,6 +3971,8 @@
 
 			#header {
 				background-image: url("../../images/background.jpg");
+				/*custom*/
+				height: 100vh;
 			}
 
 				#header h1 {
